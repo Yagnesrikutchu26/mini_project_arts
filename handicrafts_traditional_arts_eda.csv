@@ -1,0 +1,21 @@
+Craft_ID,Craft_Name,State,Category,Avg_Price_INR,Artisans_Involved,Annual_Production_Units
+1,Pochampally Ikat,Telangana,Textile,2500,1200,15000
+2,Kalamkari,Andhra Pradesh,Painting,1800,900,12000
+3,Bidriware,Karnataka,Metal,3000,500,8000
+4,Madhubani Painting,Bihar,Painting,1500,1500,18000
+5,Warli Painting,Maharashtra,Painting,1200,1100,14000
+6,Channapatna Toys,Karnataka,Toy Making,900,800,11000
+7,Terracotta Art,West Bengal,Clay,700,600,9000
+8,Blue Pottery,Rajasthan,Pottery,1600,700,10000
+9,Banarasi Weaving,Uttar Pradesh,Textile,5000,2000,20000
+10,Kondapalli Toys,Andhra Pradesh,Toy Making,800,650,10500
+11,Dhokra Art,Chhattisgarh,Metal,2200,550,7800
+12,Phulkari Embroidery,Punjab,Embroidery,1400,1000,13000
+13,Kutch Embroidery,Gujarat,Embroidery,2000,950,12500
+14,Thanjavur Painting,Tamil Nadu,Painting,3500,400,6000
+15,Pattachitra,Odisha,Painting,1700,850,11500
+16,Bamboo Craft,Assam,Eco Craft,600,750,9500
+17,Stone Carving,Odisha,Stone,4000,300,5000
+18,Wood Carving,Kerala,Wood,2800,450,7200
+19,Metal Craft,Rajasthan,Metal,2600,500,7600
+20,Palm Leaf Art,Tamil Nadu,Leaf Art,1000,620,8800
